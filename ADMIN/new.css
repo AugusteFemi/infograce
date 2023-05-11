@@ -1,0 +1,113 @@
+
+#nav-link{
+    border: 1px solid #cc2e43;
+    border-radius: 3px;
+}
+.container-fluid{
+    margin-top: 30px;
+   
+
+}
+.col-3{
+    margin-left: 20px;
+}
+td a{
+    padding-left: 10px;
+}
+#supp{
+    color: #e74c3c;
+}
+#modif{
+    color: #95a5a6;
+}
+li a:hover{
+    color: #cc2e2e;
+}
+footer{
+    border-top: 1px solid #bdc3c7;
+    width: 100%;
+    margin-top: 100px;
+     color: #000000;
+    
+}
+#toogle{
+    color: #cc2e36;
+}
+.content{
+    margin-top: 30px;
+    margin-left: 10px;
+    box-sizing: border-box;
+}
+.nav-item :hover{
+    padding: 6px 10px;
+    background-color: #d85151;
+    border-radius: 4px;
+    transition: all .3s ease;
+    color: #e41717;
+}
+.images{
+    width: 40px;
+    height: 50px;
+}
+
+#naviga{
+    background-color: #ecf0f1;
+    border: 1px solid #e41717;
+    border-radius: 3px;
+}
+.table{
+    margin-top: 20px;
+}  
+.bigger{
+    width: 100%;
+    height: 20vh;
+}
+.big{
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Inconsolata', monospace;
+}
+.top-margin{
+    margin-top: 20px;
+}
+#bouton{
+    font-size: 30px;
+    font-family: 'Inconsolata', monospace;
+    
+}
+#button-tab{
+    font-size: 70px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 300;
+  
+}
+#button-tab-montant{
+    font-size: 60px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 300;
+    margin-left: -43px;
+}
+ 
+#commande{
+    text-align: center;
+    padding: auto;
+}
+
+#table-mod{
+    margin-top: 50px;
+    color: #ffffff;
+}
+.sidebar{
+    border: 1px solid #e41717;
+    border-radius: 2px;
+}
+#ok{
+  color:#e41717 ;
+}
+#modi{
+    text-decoration: none;
+    color: #ffffff;
+}
+#bouuton3{
+    color: #039fbe;
+}

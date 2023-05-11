@@ -1,0 +1,31 @@
+body{
+    background-color: #f7f7f9;
+    box-sizing: border-box;
+}
+#formulaire{
+    background-color: #ffffff;
+    padding: 7%;
+    margin-top: 100px;
+    border: 1px solid #f7f7f9;
+    border-radius: 5.5px;
+    width: 100%;
+    margin-bottom: 160px;
+}
+#bouton{
+    width: 100%;
+}
+#check{
+    font-size: 15px;
+}
+#footer{
+    font-size: 15px;
+    padding-left: 566px;
+    border-top: 1px solid #000000;
+    width: 100%;
+    margin: 0px;
+    background-color: #ffffff;
+}
+#navbar-bottom-footer{
+    padding: 0px;
+    background-color: #ffffff;
+}
